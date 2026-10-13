@@ -26,5 +26,5 @@ Un script en **Bash** automatizado para la depuración de paquetes huérfanos, l
 ### Clonar el repositorio
 
 ```bash
-git clone [https://github.com/tu-usuario/limpieza-sistema-linux.git](https://github.com/tu-usuario/limpieza-sistema-linux.git)
+git clone [https://github.com/SaithFranklin/limpieza-sistema-linux.git](https://github.com/SaithFranklin/limpieza-sistema-linux.git)
 cd limpieza-sistema-linux
